@@ -1,7 +1,7 @@
  **THE HUNT (2024) PARTICIPATING GAMES**
 ## **COUNT: 110 CONFIRMED PARTICIPANTS**
 
-</>
+<pre></pre>
 ---
 - [ ] 3008
 - [ ] 1% Win Obby
@@ -113,4 +113,4 @@
 - [ ] Wild Horse Islands
 - [ ] World // Zero
 ---
-</>
+</pre>
