@@ -1,6 +1,7 @@
  **THE HUNT (2024) PARTICIPATING GAMES**
 ## **COUNT: 110 CONFIRMED PARTICIPANTS**
 
+</pre>
 ---
 - [ ] 3008
 - [ ] 1% Win Obby
@@ -110,5 +111,6 @@
 - [ ] Warrior Cats: Ultimate Edition
 - [ ] Weapon Fighting Simulator
 - [ ] Wild Horse Islands
-- [ ] World // Zero``
+- [ ] World // Zero
 ---
+</pre>
