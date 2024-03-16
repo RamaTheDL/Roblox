@@ -1,4 +1,4 @@
- THE HUNT (2024) PARTICIPATING GAMES
+ **THE HUNT (2024) PARTICIPATING GAMES**
 ## **COUNT: 110 CONFIRMED PARTICIPANTS**
 
 - [ ] 3008
@@ -8,14 +8,6 @@
 - [ ] Anime Dimensions Simulator
 - [ ] Arm Wrestle Simulator
 - [ ] Arsenal
-- [x] Legends of Speed
-- [ ] Life Together
-- [ ] Livetopia
-- [ ] Lumber Tycoon 2
-- [ ] Lumberjack Simulator
-- [ ] Make a Wish!
-- [ ] Maple Hospital
-- [ ] Mega Hide and Seek!
 - [ ] Astro Renaissance
 - [ ] Barbie DreamHouse Tycoon
 - [ ] Mega Mansion Tycoon
@@ -48,6 +40,22 @@
 - [ ] Easy Obby
 - [x] Elemental Powers Tycoon
 - [ ] Emergency Hamburg
+- [ ] Emergency Response: Liberty County Spray paint!
+- [x] Escape Running Head
+- [ ] Evade
+- [ ] Football Fusion 2
+- [ ] Fruit Battlegrounds
+- [ ] Funky Friday
+- [ ] Greenville
+- [ ] Gunfight Arena
+- [x] Legends of Speed
+- [ ] Life Together
+- [ ] Livetopia
+- [ ] Lumber Tycoon 2
+- [ ] Lumberjack Simulator
+- [ ] Make a Wish!
+- [ ] Maple Hospital
+- [ ] Mega Hide and Seek!
 - [ ] Mega Princess Tycoon
 - [ ] Metro Life
 - [ ] Military Tycoon™
@@ -77,14 +85,6 @@
 - [ ] Sonic Speed Simulator
 - [ ] SPIN FOR FREE UGC
 - [ ] Spongebob Simulator
-- [ ] Emergency Response: Liberty County Spray paint!
-- [x] Escape Running Head
-- [ ] Evade
-- [ ] Football Fusion 2
-- [ ] Fruit Battlegrounds
-- [ ] Funky Friday
-- [ ] Greenville
-- [ ] Gunfight Arena
 - [ ] STEEP STEPS
 - [ ] Strongman Simulator
 - [ ] Super Fun Obby
