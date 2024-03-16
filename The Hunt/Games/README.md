@@ -2,14 +2,14 @@
 ## **COUNT: 110 CONFIRMED PARTICIPANTS**
 
 ---
-- [ ] 3008
-- [ ] 1% Win Obby
-- [ ] Adopt Me
-- [ ] All Star Tower Defense
-- [ ] Anime Dimensions Simulator
-- [ ] Arm Wrestle Simulator
-- [ ] Arsenal
-- [ ] Astro Renaissance
+|- [ ] 3008
+|- [ ] 1% Win Obby
+|- [ ] Adopt Me
+|- [ ] All Star Tower Defense
+|- [ ] Anime Dimensions Simulator
+|- [ ] Arm Wrestle Simulator
+|- [ ] Arsenal
+|- [ ] Astro Renaissance
 - [ ] Barbie DreamHouse Tycoon
 - [ ] Bayside Highschool
 - [ ] Bed Wars
