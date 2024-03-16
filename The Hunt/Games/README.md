@@ -10,7 +10,6 @@
 - [ ] Arsenal
 - [ ] Astro Renaissance
 - [ ] Barbie DreamHouse Tycoon
-- [ ] Mega Mansion Tycoon
 - [ ] Bayside Highschool
 - [ ] Bed Wars
 - [x] Berry Avenue
@@ -56,6 +55,7 @@
 - [ ] Make a Wish!
 - [ ] Maple Hospital
 - [ ] Mega Hide and Seek!
+- [ ] Mega Mansion Tycoon
 - [ ] Mega Princess Tycoon
 - [ ] Metro Life
 - [ ] Military Tycoon™
